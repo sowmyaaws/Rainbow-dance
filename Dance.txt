@@ -2,3 +2,4 @@ step left
 step right
 jump up and down
 go and back
+A sailor went to sea, sea, sea
